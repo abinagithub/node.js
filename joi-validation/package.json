@@ -1,0 +1,22 @@
+{
+  "name": "joi-validation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^15.0.3",
+    "config": "^3.3.9",
+    "helmet": "^6.0.1",
+    "joi": "^17.8.4",
+    "joi-password": "^4.0.0",
+    "jshint": "^2.13.6",
+    "lodash": "^4.17.4",
+    "morgan": "^1.10.0"
+  }
+}
